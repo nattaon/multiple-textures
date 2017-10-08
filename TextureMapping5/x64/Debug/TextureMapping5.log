@@ -1,0 +1,14 @@
+﻿Build started 10/9/2017 12:29:06 AM.
+     1>Project "C:\Users\Nattaon\Desktop\TextureMapping5 -1\TextureMapping5\TextureMapping5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _MBCS /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt TextureMapping5.cpp
+         TextureMapping5.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nattaon\Desktop\TextureMapping5 -1\x64\Debug\TextureMapping5.exe" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nattaon\Desktop\TextureMapping5 -1\x64\Debug\TextureMapping5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nattaon\Desktop\TextureMapping5 -1\x64\Debug\TextureMapping5.lib" /MACHINE:X64 x64\Debug\RgbImage.obj
+         x64\Debug\TextureMapping5.obj
+         TextureMapping5.vcxproj -> C:\Users\Nattaon\Desktop\TextureMapping5 -1\x64\Debug\TextureMapping5.exe
+     1>Done Building Project "C:\Users\Nattaon\Desktop\TextureMapping5 -1\TextureMapping5\TextureMapping5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.32
